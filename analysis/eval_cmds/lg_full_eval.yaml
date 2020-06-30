@@ -1,0 +1,6 @@
+task_name: 'infer'
+task_disp_name: 'Create Push'
+main:
+    - 25-Seesaw-71-L8-main_full
+    - 24-Push-41-O3-main_full 
+    - 25-Obstacle-51-3P-main_full

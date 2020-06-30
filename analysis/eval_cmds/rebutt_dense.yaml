@@ -1,0 +1,15 @@
+task_name: 'infer'
+task_disp_name: 'Create Ablate'
+push:
+    - 419-Push-31-4H-main-few-rewards
+    - 419-Push-41-N0-main-few-rewards
+    - 419-Push-51-WK-main-few-rewards
+    - 419-Push-61-AP-main-few-rewards
+    - 419-Push-71-LZ-main-few-rewards
+obstacle:
+    - 419-Obstacle-31-JM-main-few-rewards
+    - 419-Obstacle-41-AB-main-few-rewards
+    - 419-Obstacle-51-5K-main-few-rewards
+    - 419-Obstacle-61-CD-main-few-rewards
+    - 419-Obstacle-71-5V-main-few-rewards
+

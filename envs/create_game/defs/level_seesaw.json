@@ -1,0 +1,46 @@
+{
+    "name": "Seesaw",
+    "target": "[0.2, 0.9]",
+    "goal": "[-0.8, -0.8]",
+    "target_sec_goals": [
+        "[-0.1, -0.45]"
+    ],
+    "place_walls": true,
+    "rnd": {
+        "target": "[uniform(-MID_NOISE, MID_NOISE), uniform(-MID_NOISE, MID_NOISE)]",
+        "ball": "[uniform(-DEF_NOISE, DEF_NOISE), uniform(-DEF_NOISE, DEF_NOISE)]"
+    },
+    "env": [
+        {
+            "name": "ball",
+            "pos": [-0.3, 0.5],
+            "radius": 4.0,
+            "mass": 30.0,
+            "elasticity": 0.1,
+            "color": "black"
+        },
+        {
+            "name": "see_saw",
+            "pos": [-0.3, -0.1],
+            "length": 30.0,
+            "on_left": true,
+            "ball_mass": 1.0
+        },
+        {
+            "name": "wall",
+            "pos": [0.1, -0.7],
+            "length": 40,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "floor",
+            "pos": [-0.9, -0.3],
+            "length": 20.0,
+            "friction": 1.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        }
+
+    ]
+}

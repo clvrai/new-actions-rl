@@ -1,0 +1,56 @@
+task_name: 'infer'
+task_disp_name: 'Create Ablate'
+no_ent_navigate:
+    - 611-Navigate-71-VO-no_ent
+    - 611-Navigate-61-M7-no_ent
+    - 414-Navigate-51-F6-no_ent
+    - 412-Navigate-31-5M-no_ent
+    - 412-Navigate-31-DS-no_ent
+no_ent_belt:
+    - 611-Belt-71-1U-no_ent
+    - 611-Belt-61-P2-no_ent
+    - 414-Belt-51-SI-no_ent
+    - 412-Belt-41-JS-no_ent
+    - 412-Belt-31-AD-no_ent
+no_ent_buckets:
+    - 611-Buckets-71-UJ-no_ent
+    - 611-Buckets-61-UT-no_ent
+    - 414-Buckets-51-PF-no_ent
+    - 412-Buckets-41-XR-no_ent
+    - 412-Buckets-31-S7-no_ent
+no_ent_cannon:
+    - 611-Cannon-71-OD-no_ent
+    - 611-Cannon-61-65-no_ent
+    - 414-Cannon-51-DB-no_ent
+    - 412-Cannon-41-5D-no_ent
+    - 412-Cannon-31-U4-no_ent
+no_ent_collide:
+    - 613-Collide-71-2K-no_ent
+    - 613-Collide-61-YC-no_ent
+    - 414-Collide-51-JP-no_ent
+    - 412-Collide-41-18-no_ent
+    - 412-Collide-31-IN-no_ent
+no_ent_moving:
+    - 614-Moving-71-7S-no_ent
+    - 614-Moving-61-DI-no_ent
+    - 414-Moving-51-IJ-no_ent
+    - 413-Moving-41-9Y-no_ent
+    - 412-Moving-31-I3-no_ent
+no-ent_ladder:
+    - 619-Ladder-71-72-no_ent
+    - 619-Ladder-61-EO-no_ent
+    - 414-Ladder-51-6U-no_ent
+    - 414-Ladder-41-T4-no_ent
+    - 412-Ladder-31-1O-no_ent
+no_ent_basket:
+    - 619-Basket-61-UP-no_ent
+    - 619-Basket-71-9K-no_ent
+    - 414-Basket-51-F2-no_ent
+    - 414-Basket-41-3W-no_ent
+    - 412-Basket-31-4A-no_ent
+no_ent_funnel:
+    - 614-Funnel-71-2Z-no_ent
+    - 614-Funnel-61-OM-no_ent
+    - 414-Funnel-51-U0-no_ent
+    - 413-Funnel-41-S4-no_ent
+    - 412-Funnel-31-DP-no_ent

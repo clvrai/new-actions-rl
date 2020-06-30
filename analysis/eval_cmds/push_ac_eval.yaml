@@ -1,0 +1,22 @@
+task_name: 'CreateLevelPush-v0'
+task_disp_name: 'Create Push'
+main:
+    - 22-Push-71-8O-main
+    - 22-Push-61-TS-main
+    - 22-Push-51-WK-main
+    - 22-Push-41-C7-m-len7
+    - 22-Push-31-H7-m-len7
+no_ent:
+    - 24-Push-71-AM-no_ent
+    - 24-Push-61-0F-no_ent
+    - 24-Push-51-LS-no_ent
+    - 24-Push-41-0G-no_ent
+    - 22-Push-31-VE-no_ent
+fixed:
+    - 23-Push-71-PB-fixed
+    - 23-Push-61-24-fixed
+    - 23-Push-51-8B-fixed
+    - 22-Push-41-XM-fixed
+    - 22-Push-31-LD-fixed
+
+

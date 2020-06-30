@@ -1,0 +1,34 @@
+{
+    "name": "Basket",
+    "target": "[0.75, 0.75]",
+    "goal": "[-0.75, 0.65]",
+    "reward": "sparse",
+    "goal_is_basket": "True",
+    "ball_is_basket": "True",
+    "max_num_steps": 40,
+    "rnd": {
+            "target": "[uniform(-MID_NOISE, MID_NOISE), uniform(-MID_NOISE, MID_NOISE)]",
+            "goal": "[uniform(-MID_NOISE, MID_NOISE), uniform(-MID_NOISE, MID_NOISE)]"
+        },
+    "target_sec_goals": [
+        "[0.35, -0.05]",
+        "[-0.15, 0.35]"
+    ],
+    "env": [
+        {
+            "name": "fast_ladder",
+            "pos": "[0.5, -0.4]",
+            "id": 0
+        },
+        {
+            "name": "fast_ladder",
+            "pos": "[-0.05, 0.0]",
+            "id": 0
+        },
+        {
+            "name": "fast_ladder",
+            "pos": "[-0.55, 0.35]",
+            "id": 0
+        }
+    ]
+}

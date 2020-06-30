@@ -1,0 +1,32 @@
+task_name: 'RecoEnv-v0'
+task_disp_name: 'Reco'
+main:
+    - 218-RE-51-8L-m-mu
+    - 218-RE-71-R1-m-mu
+    - 218-RE-61-CI-m-mu
+    - 218-RE-41-N1-m-mu
+    - 218-RE-31-ZH-m-mu
+nn:
+    - 218-RE-71-E5-nn-mu
+    - 218-RE-61-LB-nn-mu
+    - 218-RE-51-FP-nn-mu
+    - 218-RE-41-SM-nn-mu
+    - 218-RE-31-JK-nn-mu
+fixed:
+    - 218-RE-71-WZ-fx-mu
+    - 218-RE-61-5P-fx-mu
+    - 218-RE-51-6L-fx-mu
+    - 218-RE-41-RV-fx-mu
+    - 218-RE-31-0K-fx-mu
+no_ent:
+    - 218-RE-71-7J-m-e0-mu
+    - 218-RE-61-6M-m-e0-mu
+    - 218-RE-51-U0-m-e0-mu
+    - 218-RE-41-WH-m-e0-mu
+    - 218-RE-31-DE-m-e0-mu
+dist:
+    - 218-RE-71-AT-dist-mu
+    - 218-RE-61-YQ-dist-mu
+    - 218-RE-51-R7-dist-mu
+    - 218-RE-41-DU-dist-mu
+    - 218-RE-31-06-dist-mu

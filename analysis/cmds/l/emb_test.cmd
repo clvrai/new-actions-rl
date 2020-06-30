@@ -1,0 +1,1 @@
+python embedder.py --env-name CreateLevelPush-v0 --play-env-name StateCreateGamePlay-v0 --load-emb-model-file /home/ayush/icml/data/embedder/trained_models/create_g1-htvae-5000.m --prefix debug --log-dir ~/tmp/gym --split-type gran_1 --play-data-folder /data/ayush/datasets/create_gran1 --load-dataset True --test-embeddings

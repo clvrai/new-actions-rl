@@ -1,0 +1,40 @@
+{
+    "name": "Ladder",
+    "lvl_type": "marker",
+    "target": "[0.35, -0.2 + OFFSET]",
+    "goal": "[-0.75, -0.2 + OFFSET]",
+    "reward": "sparse",
+    "rnd": {
+            "_marker_ball:0": "[uniform(-HIGH_NOISE, HIGH_NOISE), uniform(-HIGH_NOISE, HIGH_NOISE)]",
+            "target,floor:0": "[uniform(-MID_NOISE, MID_NOISE), uniform(-MID_NOISE, MID_NOISE)]",
+            "goal,floor:1": "[uniform(-HIGH_NOISE, HIGH_NOISE), uniform(-HIGH_NOISE, HIGH_NOISE)]"
+        },
+    "env": [
+        {
+            "name": "marker_ball",
+            "pos": "[0.7, 0.75]",
+            "id": 0
+        },
+        {
+            "name": "floor",
+            "pos": "[0.35, -0.2]",
+            "id": 0,
+            "length": 5,
+            "thickness": 1,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "floor",
+            "pos": "[-0.75, -0.2]",
+            "id": 1,
+            "length": 5,
+            "thickness": 1,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "ladder",
+            "pos": "[-0.1, -0.1]",
+            "id": 0
+        }
+    ]
+}

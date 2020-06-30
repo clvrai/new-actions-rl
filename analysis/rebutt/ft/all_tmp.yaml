@@ -1,0 +1,24 @@
+mainft_gw:
+    - 419-GW-71-81-main_ft
+    - 419-GW-61-Q0-main_ft
+    - 419-GW-51-7W-main_ft
+    - 419-GW-41-VG-main_ft
+    - 419-GW-31-OH-main_ft
+discft_gw:
+    - 419-GW-71-4L-ft
+    - 419-GW-61-FN-ft
+    - 419-GW-51-1K-ft
+    - 419-GW-41-V7-ft
+    - 419-GW-31-M6-ft
+mainscratch_gw:
+    - 419-GW-71-Q2-main_ft
+    - 419-GW-61-2Y-main_ft
+    - 419-GW-51-RL-main_ft
+    - 419-GW-41-2A-main_ft
+    - 419-GW-31-RY-main_ft
+discscratch_gw:
+    - 420-GW-71-ZL-discrete_scratch
+    - 420-GW-61-0O-discrete_scratch
+    - 420-GW-51-6M-discrete_scratch
+    - 419-GW-41-4A-discrete_scratch
+    - 419-GW-31-SL-discrete_scratch

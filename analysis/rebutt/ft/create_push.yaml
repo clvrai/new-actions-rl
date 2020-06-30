@@ -1,0 +1,24 @@
+mainft_push:
+    - 418-Push-31-ZQ-main_ft
+    - 418-Push-41-08-main_ft
+    - 418-Push-71-4Z-main_ft
+    - 418-Push-61-V8-main_ft
+    - 418-Push-51-40-main_ft
+discft_push:
+    - 26-Push-71-IU-main
+    - 26-Push-61-Q4-main
+    - 26-Push-51-8Q-main
+    - 26-Push-41-EX-main
+    - 26-Push-31-ZG-main
+mainscratch_push:
+    - 418-Push-71-5M-fixed_ft
+    - 418-Push-61-D9-fixed
+    - 418-Push-51-E2-fixed
+    - 418-Push-41-U2-fixed
+    - 418-Push-31-G5-fixed
+discscratch_push:
+    - 420-Push-71-DY-discrete_scratch
+    - 420-Push-61-TH-discrete_scratch
+    - 420-Push-51-JW-discrete_scratch
+    - 419-Push-41-43-discrete_scratch
+    - 419-Push-31-M7-discrete_scratch

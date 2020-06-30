@@ -1,0 +1,4 @@
+task_name: 'CreateLevelObstacle-v0'
+task_disp_name: 'Create Obstacle'
+main:
+    - 22-Obstacle-31-9P-main

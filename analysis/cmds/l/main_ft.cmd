@@ -1,0 +1,1 @@
+python main.py --env-name CreateLevel%s-v0 --prefix main_ft --log-dir ~/tmp/gym --backup aszot --num-env-steps 5000000  --lr-env-steps 100000000 --test-split --action-random-sample False --fixed-action-set 

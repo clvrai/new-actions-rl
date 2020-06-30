@@ -1,0 +1,40 @@
+{
+    "name": "Navigate",
+    "lvl_type": "marker",
+    "target": "[0.1, -0.35 + OFFSET]",
+    "goal": "[-0.65, -0.7 + OFFSET]",
+    "reward": "sparse",
+    "rnd": {
+            "_marker_ball:0": "[uniform(-HIGH_NOISE, HIGH_NOISE), uniform(-HIGH_NOISE, HIGH_NOISE)]",
+            "target,medium_floor:0": "[uniform(-MID_NOISE, MID_NOISE), uniform(-MID_NOISE, MID_NOISE)]",
+            "goal,medium_floor:1": "[uniform(-HIGH_NOISE, HIGH_NOISE), uniform(-HIGH_NOISE, HIGH_NOISE)]"
+        },
+    "env": [
+        {
+            "name": "marker_ball",
+            "pos": "[-0.6, 0.75]",
+            "id": 0
+        },
+        {
+            "name": "medium_floor",
+            "pos": "[0.1, -0.35]",
+            "id": 0,
+            "thickness": 1,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "medium_floor",
+            "pos": "[-0.65, -0.7]",
+            "id": 1,
+            "thickness": 1,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "floor",
+            "pos": "[-0.5, 0.1]",
+            "length": 40,
+            "thickness": 1,
+            "color": "STEELBLUE"
+        }
+    ]
+}

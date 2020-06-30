@@ -1,0 +1,21 @@
+task_name: 'infer'
+task_disp_name: 'Create Ablate'
+push:
+    - 418-Push-31-8C-aux-non-linear
+    - 418-Push-41-TJ-aux-non-linear
+    - 418-Push-51-BS-aux-non-linear
+    - 419-Push-61-AY-aux-non-linear
+    - 419-Push-71-VI-aux-non-linear
+obstacle:
+    - 418-Obstacle-31-MZ-aux-non-linear
+    - 418-Obstacle-41-L2-aux-non-linear
+    - 419-Obstacle-51-M3-aux-non-linear
+    - 419-Obstacle-61-16-aux-non-linear
+    - 419-Obstacle-71-QA-aux-non-linear
+seesaw:
+    - 418-Seesaw-31-1K-aux-non-linear
+    - 418-Seesaw-41-GU-aux-non-linear
+    - 419-Seesaw-51-FX-aux-non-linear
+    - 419-Seesaw-61-HT-aux-non-linear
+    - 419-Seesaw-71-2U-aux-non-linear
+

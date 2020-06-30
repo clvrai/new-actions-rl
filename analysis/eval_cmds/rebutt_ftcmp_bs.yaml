@@ -1,0 +1,8 @@
+task_name: 'StackEnvSimplestMoving-v0'
+task_disp_name: 'Create Ablate'
+bs:
+    - 24-BS-61-PQ-m
+    - 24-BS-51-G3-m
+    - 24-BS-41-Z0-m
+    - 24-BS-71-MS-m
+    - 23-BS-31-64-m-skip

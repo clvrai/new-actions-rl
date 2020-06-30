@@ -1,0 +1,20 @@
+{
+    "name": "Collide",
+    "target": "[0.6, 0.7]",
+    "goal": "[-0.6, 0.7]",
+    "moving_goal": true,
+    "place_walls": true,
+    "rnd": {
+        "target": "[uniform(-MID_NOISE, MID_NOISE), uniform(-MID_NOISE, MID_NOISE)]",
+        "goal": "[uniform(-MID_NOISE, MID_NOISE), uniform(-MID_NOISE, MID_NOISE)]"
+    },
+    "env": [
+        {
+            "name": "wall",
+            "pos": "[0.0, 0.25]",
+            "length": 35.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        }
+    ]
+}

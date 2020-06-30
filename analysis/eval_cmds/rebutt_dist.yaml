@@ -1,0 +1,56 @@
+task_name: 'infer'
+task_disp_name: 'Create Ablate'
+dist_navigate:
+    - 69-Navigate-71-FV-dist
+    - 69-Navigate-61-E9-dist
+    - 411-Navigate-51-O3-dist
+    - 410-Navigate-41-XI-dist
+    - 49-Navigate-31-FH-dist
+dist_belt:
+    - 610-Belt-71-ES-dist
+    - 610-Belt-61-XF-dist
+    - 411-Belt-51-32-dist
+    - 410-Belt-41-97-dist
+    - 49-Belt-31-0V-dist
+dist_buckets:
+    - 610-Buckets-71-H2-dist
+    - 610-Buckets-61-40-dist
+    - 411-Buckets-51-GB-dist
+    - 410-Buckets-41-N0-dist
+    - 49-Buckets-31-89-dist
+dist_cannon:
+    - 610-Cannon-71-6E-dist
+    - 610-Cannon-61-DX-dist
+    - 411-Cannon-51-TV-dist
+    - 410-Cannon-41-N9-dist
+    - 49-Cannon-31-Q6-dist
+dist_collide:
+    - 610-Collide-61-H6-dist
+    - 610-Collide-61-6U-dist
+    - 411-Collide-51-JV-dist
+    - 410-Collide-41-JI-dist
+    - 49-Collide-31-15-dist
+dist_moving:
+    - 610-Moving-71-MY-dist
+    - 610-Moving-61-JO-dist
+    - 411-Moving-51-AS-dist
+    - 410-Moving-41-YU-dist
+    - 49-Moving-31-HM-dist
+dist_ladder:
+    - 610-Ladder-61-JB-dist
+    - 610-Ladder-71-1N-dist
+    - 411-Ladder-51-91-dist
+    - 410-Ladder-41-DG-dist
+    - 49-Ladder-31-JS-dist
+dist_basket:
+    - 610-Basket-71-CP-dist
+    - 610-Basket-61-KO-dist
+    - 411-Basket-51-1Q-dist
+    - 410-Basket-41-SD-dist
+    - 49-Basket-31-TY-dist
+dist_funnel:
+    - 610-Funnel-71-7D-dist
+    - 610-Funnel-61-QU-dist
+    - 412-Funnel-51-7B-dist
+    - 410-Funnel-41-9P-dist
+    - 49-Funnel-31-E2-dist

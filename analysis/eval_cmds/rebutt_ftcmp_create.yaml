@@ -1,0 +1,20 @@
+task_name: 'infer'
+task_disp_name: 'Create Ablate'
+push:
+    - 22-Push-71-8O-main
+    - 22-Push-61-TS-main
+    - 22-Push-51-WK-main
+    - 22-Push-41-C7-m-len7
+    - 22-Push-31-H7-m-len7
+obstacle:
+    - 22-Obstacle-71-96-main
+    - 22-Obstacle-61-ZO-main
+    - 22-Obstacle-51-QY-main
+    - 22-Obstacle-41-KX-main
+    - 22-Obstacle-31-9P-main
+seesaw:
+    - 22-Seesaw-71-BY-main
+    - 22-Seesaw-41-PX-main
+    - 22-Seesaw-61-8N-main
+    - 22-Seesaw-51-0C-main
+    - 22-Seesaw-31-DL-m-len7

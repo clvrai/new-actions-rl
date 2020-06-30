@@ -1,0 +1,8 @@
+task_name: 'MiniGrid-LavaCrossingS9N1-v0'
+task_disp_name: 'Create Ablate'
+gw:
+    - 131-GW-81-JG-m
+    - 127-GW-71-YO-m
+    - 127-GW-61-42-m
+    - 127-GW-51-54-m
+    - 127-GW-41-O4-m

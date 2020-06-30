@@ -1,0 +1,20 @@
+task_name: 'MiniGrid-LavaCrossingS9N1-v0'
+task_disp_name: 'Grid World'
+nn:
+    - 131-GW-101-WE-nn
+    - 131-GW-91-VS-nn
+    - 131-GW-81-ZB-nn
+    - 127-GW-71-68-nn
+    - 127-GW-61-T6-nn
+    - 127-GW-51-S8-nn
+    - 127-GW-41-69-nn
+    - 127-GW-31-Y0-nn
+fixed:
+    - 131-GW-91-L7-fx
+    - 131-GW-101-RE-fx
+    - 131-GW-81-PS-fx
+    - 127-GW-71-IK-fx
+    - 127-GW-61-FR-fx
+    - 127-GW-51-DS-fx
+    - 127-GW-41-N3-fx
+    - 127-GW-31-0Q-fx

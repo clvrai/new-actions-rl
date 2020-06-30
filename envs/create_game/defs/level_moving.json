@@ -1,0 +1,18 @@
+{
+    "name": "Moving",
+    "target": "[0.6, 0.75]",
+    "goal": "[-0.7, 0.0]",
+    "moving_goal": true,
+    "rnd": {
+        "target": "[uniform(-HIGH_NOISE, HIGH_NOISE), uniform(-HIGH_NOISE, HIGH_NOISE)]",
+        "goal": "[0., uniform(-LARGE_NOISE, LARGE_NOISE)]"
+    },
+    "env": [
+        {
+            "name": "trampoline",
+            "pos": "[-0.7, -0.75]",
+            "id": 1,
+            "elasticity": 1.0
+        }
+    ]
+}

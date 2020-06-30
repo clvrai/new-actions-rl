@@ -1,0 +1,51 @@
+{
+    "name": "Cannon",
+    "lvl_type": "marker",
+    "place_walls": false,
+    "marker_must_hit": true,
+    "target": "[0.4, 0.0 + OFFSET]",
+    "goal": "[-0.7, -0.1]",
+    "rnd": {
+        "marker_ball": "[uniform(-MID_NOISE, MID_NOISE), uniform(-MID_NOISE, MID_NOISE)]",
+        "target,short_floor": "[uniform(-DEF_NOISE, DEF_NOISE), uniform(-DEF_NOISE, DEF_NOISE)]",
+        "goal": "[uniform(-DEF_NOISE, DEF_NOISE), uniform(-DEF_NOISE, DEF_NOISE)]"
+    },
+    "env": [
+        {
+           "name": "marker_ball",
+           "pos": [0.8, 0.75]
+        },
+        {
+            "name": "wall",
+            "pos": "[1.0, 0.0]",
+            "length": 90,
+            "color": "LIGHTSTEELBLUE"
+        }, 
+        {
+            "name": "floor",
+            "pos": "[0.0, 1.0]",
+            "length": 90,
+            "color": "LIGHTSTEELBLUE"
+        },
+        {
+            "name": "wall",
+            "pos": "[-0.1, 0.35]",
+            "length": 55.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "cannon",
+            "pos": "[-0.1, -0.8]",
+            "angle": "110 * np.pi / 180",
+            "force": 140.0
+        },
+        {
+            "name": "short_floor",
+            "pos": "[0.4, 0.0]",
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        }
+                                                                                                                                        ]
+}
+

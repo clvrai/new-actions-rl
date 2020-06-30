@@ -1,0 +1,8 @@
+task_name: 'CreateLevelObstacle-v0'
+task_disp_name: 'Create Obstacle'
+ft:
+    - 26-Obstacle-71-VI-main
+    - 26-Obstacle-61-NG-main
+    - 26-Obstacle-51-XH-main
+    - 26-Obstacle-41-3C-main
+    - 26-Obstacle-31-5S-main

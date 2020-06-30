@@ -1,0 +1,8 @@
+task_name: 'infer'
+task_disp_name: 'Create Ablate'
+obstacle:
+    - 22-Obstacle-71-96-main
+    - 22-Obstacle-61-ZO-main
+    - 22-Obstacle-51-QY-main
+    - 22-Obstacle-41-KX-main
+    - 22-Obstacle-31-9P-main

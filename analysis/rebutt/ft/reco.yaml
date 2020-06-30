@@ -1,0 +1,24 @@
+mainft_reco:
+    - 419-RE-71-UE-main_ft
+    - 419-RE-61-QA-main_ft
+    - 419-RE-51-KL-main_ft
+    - 419-RE-41-AZ-main_ft
+    - 419-RE-31-NO-main_ft
+discft_reco:
+    - 420-RE-71-3S-discrete_scratch
+    - 420-RE-61-Z7-discrete_scratch
+    - 420-RE-51-6M-discrete_scratch
+    - 419-RE-41-OB-discrete_scratch
+    - 419-RE-31-DX-discrete_scratch
+mainscratch_reco:
+    - 419-RE-71-0T-main_ft
+    - 419-RE-61-PB-main_ft
+    - 419-RE-51-VY-main_ft
+    - 419-RE-41-IP-main_ft
+    - 419-RE-31-9A-main_ft
+discscratch_reco:
+    - 420-RE-71-W0-fixed_ft
+    - 420-RE-41-XA-fixed_ft
+    - 420-RE-61-0E-fixed_ft
+    - 420-RE-51-0A-fixed_ft
+    - 420-RE-31-OM-fixed_ft

@@ -1,0 +1,56 @@
+task_name: 'infer'
+task_disp_name: 'Create Ablate'
+fix_navigate:
+    - 68-Navigate-71-G7-fixed
+    - 68-Navigate-61-6J-fixed
+    - 415-Navigate-51-5C-fixed
+    - 414-Navigate-41-3B-fixed
+    - 413-Navigate-31-HF-fixed
+fix_belt:
+    - 68-Belt-71-KH-fixed
+    - 68-Belt-61-PT-fixed
+    - 415-Belt-51-HQ-fixed
+    - 414-Belt-41-BH-fixed
+    - 413-Belt-31-69-fixed
+fix_buckets:
+    - 69-Buckets-61-YL-fixed
+    - 69-Buckets-71-IE-fixed
+    - 415-Buckets-51-YG-fixed
+    - 414-Buckets-41-U0-fixed
+    - 413-Buckets-31-DF-fixed
+fix_cannon:
+    - 69-Cannon-71-NC-fixed
+    - 69-Cannon-61-KE-fixed
+    - 415-Cannon-51-ZC-fixed
+    - 414-Cannon-41-SZ-fixed
+    - 413-Cannon-31-53-fixed
+fix_collide:
+    - 610-Collide-71-X6-fixed
+    - 610-Collide-61-KT-fixed
+    - 416-Collide-41-AO-fixed
+    - 415-Collide-51-D4-fixed
+    - 413-Collide-31-MN-fixed
+fix_moving:
+    - 611-Moving-71-CY-fixed
+    - 611-Moving-61-TY-fixed
+    - 416-Moving-41-9A-fixed
+    - 415-Moving-51-93-fixed
+    - 413-Moving-31-PS-fixed
+fix_ladder:
+    - 619-Ladder-71-LW-fixed
+    - 619-Ladder-61-EF-fixed
+    - 416-Ladder-51-NZ-fixed
+    - 415-Ladder-41-UD-fixed
+    - 414-Ladder-31-QF-fixed
+fix_basket:
+    - 614-Basket-71-OE-fixed
+    - 613-Basket-61-CG-fixed
+    - 416-Basket-41-8A-fixed
+    - 415-Basket-51-GD-fixed
+    - 414-Basket-31-UA-fixed
+fix_funnel:
+    - 611-Funnel-71-AO-fixed
+    - 611-Funnel-61-Z5-fixed
+    - 417-Funnel-41-IZ-fixed
+    - 415-Funnel-51-ZN-fixed
+    - 413-Funnel-31-8N-fixed

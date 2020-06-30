@@ -1,0 +1,6 @@
+task_name: 'StackEnvSimplestMovingAll-v0'
+task_disp_name: 'Shape Stacking'
+nn:
+    - 25-BS-71-1T-nn
+
+

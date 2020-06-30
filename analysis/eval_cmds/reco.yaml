@@ -1,0 +1,32 @@
+task_name: 'RecoEnv-v0'
+task_disp_name: 'Reco'
+main:
+    - 25-RE-71-G0-m
+    - 25-RE-61-XW-m
+    - 25-RE-51-FP-m
+    - 25-RE-41-XT-m
+    - 25-RE-31-09-m-500-0.01
+nn:
+    - 25-RE-71-UQ-nn
+    - 25-RE-61-QA-nn
+    - 25-RE-51-X5-nn
+    - 25-RE-41-NO-nn
+    - 25-RE-31-SP-nn
+fixed:
+    - 26-RE-61-KH-fx
+    - 26-RE-71-SE-fx
+    - 25-RE-51-3O-fx
+    - 25-RE-31-DA-fx
+    - 25-RE-41-Z4-fx
+no_ent:
+    - 26-RE-31-ZD-m-e0
+    - 26-RE-61-8W-m-e0
+    - 25-RE-51-FY-m-e0
+    - 25-RE-41-XK-m-e0
+    - 25-RE-31-82-m-e0
+dist:
+    - 25-RE-61-2E-dist
+    - 25-RE-71-ZA-dist
+    - 25-RE-51-QZ-dist
+    - 25-RE-41-QO-dist
+    - 25-RE-31-QR-dist

@@ -1,0 +1,9 @@
+task_name: 'CreateLevelObstacle-v0'
+task_disp_name: 'Create Obstacle'
+full:
+  - 625-Obstacle-71-JL-main_full
+  - 625-Obstacle-51-E1-main_full
+  - 625-Obstacle-41-EZ-main_full
+  - 625-Obstacle-31-N3-main_full
+  - 621-Obstacle-61-QD-main_full
+

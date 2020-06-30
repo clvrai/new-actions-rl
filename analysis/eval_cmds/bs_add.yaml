@@ -1,0 +1,20 @@
+task_name: 'StackEnvSimplestMoving-v0'
+task_disp_name: 'Shape Stacking'
+full:
+    - 27-BS-61-VK-m-full
+    - 27-BS-71-SP-m-full
+    - 27-BS-51-4B-m-full
+    - 27-BS-41-UY-m-full
+    - 27-BS-31-N5-m-full
+dim2:
+    - 213-BS-71-XF-m-dim2
+    - 213-BS-51-SI-m-dim2
+    - 28-BS-61-8I-m-dim2
+    - 28-BS-41-Y2-m-dim2
+    - 27-BS-31-09-m-dim2
+dim0:
+    - 213-BS-41-3K-m-dim0
+    - 28-BS-71-2B-m-dim0
+    - 28-BS-61-0F-m-dim0
+    - 28-BS-51-N0-m-dim0
+    - 28-BS-31-RT-m-dim0

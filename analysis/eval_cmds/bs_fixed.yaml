@@ -1,0 +1,14 @@
+task_name: 'StackEnvSimplestMovingAll-v0'
+task_disp_name: 'Shape Stacking'
+fx:
+    - 26-BS-61-DL-fx
+    - 25-BS-51-KS-fx
+    - 25-BS-41-KT-fx
+    - 25-BS-71-0U-fx
+    - 25-BS-31-QE-fx
+nn:
+    - 25-BS-71-1T-nn
+    - 25-BS-61-7M-nn
+    - 25-BS-51-ZR-nn
+    - 25-BS-41-5A-nn
+    - 25-BS-31-Y6-nn

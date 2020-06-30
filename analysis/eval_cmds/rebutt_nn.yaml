@@ -1,0 +1,56 @@
+task_name: 'infer'
+task_disp_name: 'Create Ablate'
+nn_navigate:
+    - 66-Navigate-71-B4-nn
+    - 66-Navigate-61-VW-nn
+    - 413-Navigate-51-7R-nn
+    - 411-Navigate-41-TS-nn
+    - 49-Navigate-31-S0-nn
+nn_belt:
+    - 66-Belt-71-3J-nn
+    - 66-Belt-61-1U-nn
+    - 413-Belt-51-OL-nn
+    - 411-Belt-41-0R-nn
+    - 49-Belt-31-3I-nn
+nn_buckets:
+    - 66-Buckets-71-KH-nn
+    - 66-Buckets-61-I4-nn
+    - 413-Buckets-51-PE-nn
+    - 411-Buckets-41-AS-nn
+    - 49-Buckets-31-PV-nn
+nn_cannon:
+    - 66-Cannon-71-WG-nn
+    - 66-Cannon-61-BJ-nn
+    - 413-Cannon-51-4T-nn
+    - 411-Cannon-41-PA-nn
+    - 49-Cannon-31-MT-nn
+nn_collide:
+    - 66-Collide-71-GE-nn
+    - 66-Collide-61-ZS-nn
+    - 413-Collide-51-F5-nn
+    - 411-Collide-41-17-nn
+    - 49-Collide-31-W1-nn
+nn_moving:
+    - 66-Moving-71-S7-nn
+    - 66-Moving-61-LC-nn
+    - 413-Moving-51-BJ-nn
+    - 411-Moving-41-IE-nn
+    - 49-Moving-31-K8-nn
+nn_ladder:
+    - 619-Ladder-71-KU-nn
+    - 619-Ladder-61-WP-nn
+    - 413-Ladder-51-6R-nn
+    - 411-Ladder-41-NA-nn
+    - 49-Ladder-31-NX-nn
+nn_basket:
+    - 620-Basket-61-MI-nn
+    - 619-Basket-71-V6-nn
+    - 413-Basket-51-HP-nn
+    - 411-Basket-41-63-nn
+    - 49-Basket-31-BF-nn
+nn_funnel:
+    - 620-Funnel-61-9Y-nn
+    - 620-Funnel-71-BG-nn
+    - 413-Funnel-51-6I-nn
+    - 411-Funnel-41-39-nn
+    - 49-Funnel-31-QD-nn

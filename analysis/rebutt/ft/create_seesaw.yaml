@@ -1,0 +1,24 @@
+mainft_seesaw:
+    - 418-Seesaw-31-2K-main_ft
+    - 418-Seesaw-71-2Z-main_ft
+    - 417-Seesaw-41-CU-main_ft
+    - 417-Seesaw-61-2Z-main_ft
+    - 417-Seesaw-51-W9-main_ft
+discft_seesaw:
+    - 26-Seesaw-71-QP-main
+    - 26-Seesaw-61-KG-main
+    - 26-Seesaw-51-3K-main
+    - 26-Seesaw-41-E5-main
+    - 26-Seesaw-31-3T-main
+mainscratch_seesaw:
+    - 418-Seesaw-71-J9-fixed_ft
+    - 418-Seesaw-61-GH-fixed_ft
+    - 418-Seesaw-51-I7-fixed_ft
+    - 418-Seesaw-41-UZ-fixed_ft
+    - 418-Seesaw-31-A3-fixed_ft
+discscratch_seesaw:
+    - 420-Seesaw-71-4V-discrete_scratch
+    - 420-Seesaw-61-TP-discrete_scratch
+    - 420-Seesaw-51-I0-discrete_scratch
+    - 420-Seesaw-41-15-discrete_scratch
+    - 420-Seesaw-31-SM-discrete_scratch

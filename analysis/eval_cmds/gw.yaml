@@ -1,0 +1,84 @@
+task_name: 'MiniGrid-LavaCrossingS9N1-v0'
+task_disp_name: 'Grid World'
+nn:
+    - 131-GW-101-WE-nn
+    - 131-GW-91-VS-nn
+    - 131-GW-81-ZB-nn
+    - 127-GW-71-68-nn
+    - 127-GW-61-T6-nn
+    - 127-GW-51-S8-nn
+    - 127-GW-41-69-nn
+    - 127-GW-31-Y0-nn
+main:
+    - 127-GW-31-MY-m
+    - 131-GW-101-RM-m
+    - 131-GW-91-R7-m
+    - 131-GW-81-JG-m
+    - 127-GW-71-YO-m
+    - 127-GW-61-42-m
+    - 127-GW-51-54-m
+    - 127-GW-41-O4-m
+    - 127-GW-31-MY-m
+fixed:
+    - 131-GW-91-L7-fx
+    - 131-GW-101-RE-fx
+    - 131-GW-81-PS-fx
+    - 127-GW-71-IK-fx
+    - 127-GW-61-FR-fx
+    - 127-GW-51-DS-fx
+    - 127-GW-41-N3-fx
+    - 127-GW-31-0Q-fx
+no_ent:
+    - 131-GW-101-KG-m-e0
+    - 131-GW-91-L5-m-e0
+    - 131-GW-81-AQ-m-e0
+    - 127-GW-71-3E-m-e0
+    - 127-GW-61-UY-m-e0
+    - 127-GW-51-UQ-m-e0
+    - 127-GW-41-QV-m-e0
+    - 127-GW-31-FZ-m-e0
+main2:
+    - 131-GW-101-BZ-m-onehot
+    - 131-GW-91-90-m-onehot
+    - 131-GW-81-PT-m-onehot
+    - 129-GW-71-YL-m-onehot
+    - 127-GW-61-GN-m-onehot
+    - 127-GW-51-LI-m-onehot
+    - 127-GW-41-UC-m-onehot
+    - 127-GW-31-MB-m-onehot
+vae:
+    - 131-GW-101-EG-m-vae
+    - 131-GW-91-ZY-m-vae
+    - 131-GW-81-L6-m-vae
+    - 129-GW-71-VT-m-vae
+    - 129-GW-61-JE-m-vae
+    - 129-GW-51-PK-m-vae
+    - 129-GW-41-OY-m-vae
+    - 129-GW-31-28-m-vae
+gt:
+    - 131-GW-101-62-m-gt
+    - 131-GW-91-1I-m-gt
+    - 131-GW-81-1U-m-gt
+    - 129-GW-71-QO-m-gt
+    - 129-GW-61-E1-m-gt
+    - 129-GW-51-K5-m-gt
+    - 129-GW-41-F0-m-gt
+    - 129-GW-31-PC-m-gt
+dist:
+    - 131-GW-101-0A-dist
+    - 131-GW-91-UF-dist
+    - 131-GW-81-UV-dist
+    - 130-GW-71-BC-dist
+    - 130-GW-61-DO-dist
+    - 130-GW-51-Z4-dist
+    - 130-GW-31-LB-dist
+    - 130-GW-41-6H-dist
+all:
+    - 131-GW-101-JL-m-all
+    - 131-GW-91-M2-m-all
+    - 131-GW-81-NX-m-all
+    - 131-GW-71-2P-m-all
+    - 131-GW-61-LZ-m-all
+    - 131-GW-51-67-m-all
+    - 131-GW-41-AU-m-all
+    - 131-GW-31-X3-m-all

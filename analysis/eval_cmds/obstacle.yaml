@@ -1,0 +1,50 @@
+task_name: 'CreateLevelObstacle-v0'
+task_disp_name: 'Create Obstacle'
+main:
+    - 22-Obstacle-71-96-main
+    - 22-Obstacle-61-ZO-main
+    - 22-Obstacle-51-QY-main
+    - 22-Obstacle-41-KX-main
+    - 22-Obstacle-31-9P-main
+no_ent:
+    - 24-Obstacle-71-D3-no_ent
+    - 24-Obstacle-61-1E-no_ent
+    - 22-Obstacle-51-X3-no_ent
+    - 22-Obstacle-41-4D-no_ent
+    - 22-Obstacle-31-OI-no_ent
+nn:
+    - 22-Obstacle-71-2S-nn
+    - 22-Obstacle-61-KU-nn
+    - 22-Obstacle-51-BI-nn
+    - 22-Obstacle-41-HQ-nn
+    - 22-Obstacle-31-3N-nn
+dist:
+    - 23-Obstacle-71-RL-dist
+    - 23-Obstacle-61-C6-dist
+    - 23-Obstacle-51-K5-dist
+    - 23-Obstacle-41-2R-dist
+    - 23-Obstacle-31-GF-dist
+fixed:
+    - 23-Obstacle-71-YI-fixed
+    - 23-Obstacle-61-R0-fixed
+    - 23-Obstacle-51-I9-fixed
+    - 23-Obstacle-41-CJ-fixed
+    - 23-Obstacle-31-5O-fixed
+all:
+    - 23-Obstacle-71-DO-main_all
+    - 23-Obstacle-61-DT-main_all
+    - 23-Obstacle-51-EW-main_all
+    - 23-Obstacle-41-5G-main_all
+    - 23-Obstacle-31-O2-main_all
+vae:
+    - 23-Obstacle-71-A4-main-vae
+    - 23-Obstacle-61-JI-main-vae
+    - 23-Obstacle-51-YN-main-vae
+    - 23-Obstacle-41-BY-main-vae
+    - 23-Obstacle-31-VN-main-vae
+im:
+    - 24-Obstacle-71-K1-main-vid
+    - 24-Obstacle-61-D0-main-vid
+    - 24-Obstacle-51-YU-main-vid
+    - 24-Obstacle-41-KG-main-vid
+    - 24-Obstacle-31-XB-main-vid

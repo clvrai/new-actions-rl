@@ -1,0 +1,15 @@
+{
+    "name": "GoalTest",
+    "target": "[-0.7, -0.25 + OFFSET]",
+    "goal": "[-0.7, -0.75 + OFFSET]",
+    "rnd": {
+        "goal,medium_floor:1": "[uniform(-0, 0), uniform(-0, 0)]"
+    },
+    "env": [
+        {
+            "name": "medium_floor",
+            "pos": "[-0.7, -0.75]",
+            "id": 1
+        }
+    ]
+}

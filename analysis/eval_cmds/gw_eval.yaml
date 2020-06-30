@@ -1,0 +1,4 @@
+task_name: 'MiniGrid-LavaCrossingS9N1-v0'
+task_disp_name: 'Grid World'
+main:
+    - 127-GW-71-YO-m

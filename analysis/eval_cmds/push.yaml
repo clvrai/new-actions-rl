@@ -1,0 +1,50 @@
+task_name: 'CreateLevelPush-v0'
+task_disp_name: 'Create Push'
+main:
+    - 22-Push-71-8O-main
+    - 22-Push-61-TS-main
+    - 22-Push-51-WK-main
+    - 22-Push-41-C7-m-len7
+    - 22-Push-31-H7-m-len7
+no_ent:
+    - 24-Push-71-AM-no_ent
+    - 24-Push-61-0F-no_ent
+    - 24-Push-51-LS-no_ent
+    - 24-Push-41-0G-no_ent
+    - 22-Push-31-VE-no_ent
+nn:
+    - 22-Push-41-65-nn
+    - 22-Push-51-N6-nn
+    - 22-Push-71-EK-nn
+    - 22-Push-61-01-nn
+    - 22-Push-31-CH-nn
+fixed:
+    - 23-Push-71-PB-fixed
+    - 23-Push-61-24-fixed
+    - 23-Push-51-8B-fixed
+    - 22-Push-41-XM-fixed
+    - 22-Push-31-LD-fixed
+dist:
+    - 23-Push-71-BR-dist
+    - 23-Push-61-QL-dist
+    - 23-Push-51-BE-dist
+    - 23-Push-41-PR-dist
+    - 23-Push-31-W0-dist
+all:
+    - 23-Push-71-I6-main_all
+    - 23-Push-61-QT-main_all
+    - 23-Push-51-57-main_all
+    - 23-Push-41-DJ-main_all
+    - 23-Push-31-7F-main_all
+vae:
+    - 23-Push-71-SR-main-vae
+    - 23-Push-61-AI-main-vae
+    - 23-Push-51-P1-main-vae
+    - 23-Push-41-NG-main-vae
+    - 23-Push-31-U0-main-vae
+im:
+    - 24-Push-71-GJ-main-vid
+    - 24-Push-61-TN-main-vid
+    - 24-Push-51-HE-main-vid
+    - 24-Push-41-3F-main-vid
+    - 24-Push-31-AY-main-vid

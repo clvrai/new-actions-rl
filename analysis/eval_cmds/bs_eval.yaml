@@ -1,0 +1,4 @@
+task_name: 'StackEnvSimplestMoving-v0'
+task_disp_name: 'Shape Stacking'
+main:
+    - 23-BS-31-64-m-skip

@@ -1,0 +1,24 @@
+discft_obstacle:
+    - 26-Obstacle-71-VI-main
+    - 26-Obstacle-61-NG-main
+    - 26-Obstacle-51-XH-main
+    - 26-Obstacle-41-3C-main
+    - 26-Obstacle-31-5S-main
+mainft_obstacle:
+    - 418-Obstacle-71-UL-main_ft
+    - 418-Obstacle-61-JD-main_ft
+    - 417-Obstacle-41-VB-main_ft
+    - 417-Obstacle-51-ZO-main_ft
+    - 417-Obstacle-31-7E-main_ft
+mainscratch_obstacle:
+    - 418-Obstacle-71-VY-fixed_ft
+    - 418-Obstacle-61-AR-fixed_ft
+    - 418-Obstacle-51-X9-fixed_ft
+    - 418-Obstacle-41-G6-fixed_ft
+    - 418-Obstacle-31-9O-fixed_ft
+discscratch_obstacle:
+    - 420-Obstacle-71-9B-discrete_scratch
+    - 420-Obstacle-61-YU-discrete_scratch
+    - 420-Obstacle-51-1I-discrete_scratch
+    - 420-Obstacle-41-MC-discrete_scratch
+    - 420-Obstacle-31-5J-discrete_scratch

@@ -1,0 +1,20 @@
+task_name: 'CreateLevelSeesaw-v0'
+task_disp_name: 'Create Seesaw'
+main:
+    - 22-Seesaw-71-BY-main
+    - 22-Seesaw-41-PX-main
+    - 22-Seesaw-61-8N-main
+    - 22-Seesaw-51-0C-main
+    - 22-Seesaw-31-DL-m-len7
+no_ent:
+    - 24-Seesaw-71-TB-no_ent
+    - 24-Seesaw-61-7P-no_ent
+    - 22-Seesaw-51-KI-no_ent
+    - 22-Seesaw-41-TA-no_ent
+    - 22-Seesaw-31-D6-no_ent
+fixed:
+    - 23-Seesaw-71-OC-fixed
+    - 23-Seesaw-61-XL-fixed
+    - 23-Seesaw-51-O2-fixed
+    - 23-Seesaw-41-63-fixed
+    - 23-Seesaw-31-9K-fixed

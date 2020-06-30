@@ -1,0 +1,8 @@
+task_name: 'CreateLevelObstacle-v0'
+task_disp_name: 'Create Obstacle'
+im:
+    - 24-Obstacle-71-K1-main-vid
+    - 24-Obstacle-61-D0-main-vid
+    - 24-Obstacle-51-YU-main-vid
+    - 24-Obstacle-41-KG-main-vid
+    - 24-Obstacle-31-XB-main-vid

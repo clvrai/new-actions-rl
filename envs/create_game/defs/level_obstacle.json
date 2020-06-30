@@ -1,0 +1,139 @@
+{
+    "name": "Obstacle",
+    "lvl_type": "marker",
+    "overlap_thresh": 0.3,
+    "max_num_steps": 50,
+    "place_walls": true,
+    "target_reward": 2.0,
+    "sec_goal_reward": 2.0,
+    "marker_must_hit": true,
+    "target": "[0.1, -0.58 + OFFSET]",
+    "goal": "[-0.9, -0.8 + OFFSET]",
+    "rnd": {
+        "marker_ball:0": "[uniform(-0.02, 0.02), uniform(-0.02, 0.02)]",
+        "target": "[uniform(-0.02, 0.02), 0.0]"
+    },
+    "marker_sec_goals": [
+        "[0.7, -0.1]"
+    ],
+    "env": [
+        {
+            "name": "marker_ball",
+            "pos": [-0.8, 0.8],
+            "id": 0
+        },
+        {
+            "name": "ramp",
+            "pos": [-0.61, 0.39],
+            "length": 35.6,
+            "friction": 1.0,
+            "angle": "-np.pi/6",
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "wall",
+            "pos": [-0.25, 0.04],
+            "length": 12.7,
+            "friction": 1.0,
+            "color": "STEELBLUE",
+            "thickness": 1.0
+        },
+        {
+            "name": "floor",
+            "pos": [0.07, -0.1],
+            "length": 26.0,
+            "friction": 1.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "medium_floor",
+            "pos": "[-0.8, -0.81]",
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+
+            "name": "medium_floor",
+            "pos": "[0.12, -0.59]",
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "ramp",
+            "pos": [-0.34, -0.70],
+            "length": 24.5,
+            "friction": 1.0,
+            "angle": "np.pi/8",
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "box",
+            "size": 5,
+            "mass": 30.0,
+            "elasticity": 0.1,
+            "pos": [-0.7, 0.3],
+            "color": "box"
+        },
+        {
+            "name": "box",
+            "size": 5,
+            "mass": 30.0,
+            "elasticity": 0.1,
+            "pos": [-0.7, 0.2],
+            "color": "box"
+        },
+        {
+            "name": "wall",
+            "pos": [-0.6, 0.18],
+            "length": 15.0,
+            "friction": 1.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "wall",
+            "pos": [-0.8, 0.18],
+            "length": 15.0,
+            "friction": 1.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "wall",
+            "pos": [0.35, 0.8],
+            "length": 15.0,
+            "friction": 1.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "box",
+            "size": 5,
+            "mass": 30.0,
+            "elasticity": 0.1,
+            "pos": [0.25, 0.93],
+            "id": 3,
+            "color": "box"
+        },
+        {
+            "name": "box",
+            "size": 5,
+            "mass": 30.0,
+            "elasticity": 0.1,
+            "pos": [0.25, 0.83],
+            "id": 3,
+            "color": "box"
+        },
+        {
+            "name": "wall",
+            "pos": [0.15, 0.8],
+            "length": 15.0,
+            "friction": 1.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        }
+    ]
+}

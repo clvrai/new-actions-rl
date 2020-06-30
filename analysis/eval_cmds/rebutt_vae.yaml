@@ -1,0 +1,56 @@
+task_name: 'infer'
+task_disp_name: 'Create Ablate'
+vae_navigate:
+    - 620-Navigate-71-UC-main-vae
+    - 620-Navigate-61-OZ-main-vae
+    - 411-Navigate-51-XC-main-vae
+    - 410-Navigate-41-JX-main-vae
+    - 49-Navigate-31-PM-main-vae
+vae_belt:
+    - 67-Belt-71-N0-main-vae
+    - 67-Belt-61-MH-main-vae
+    - 411-Belt-51-K6-main-vae
+    - 411-Belt-41-DJ-main-vae
+    - 49-Belt-31-3J-main-vae
+vae_buckets:
+    - 67-Buckets-71-2X-main-vae
+    - 67-Buckets-61-N4-main-vae
+    - 411-Buckets-51-NC-main-vae
+    - 411-Buckets-41-RN-main-vae
+    - 49-Buckets-31-BL-main-vae
+vae_cannon:
+    - 67-Cannon-71-9H-main-vae
+    - 67-Cannon-61-3B-main-vae
+    - 416-Cannon-51-FN-main-vae
+    - 410-Cannon-41-8K-main-vae
+    - 49-Cannon-31-6I-main-vae
+vae_collide:
+    - 67-Collide-71-W7-main-vae
+    - 67-Collide-61-GD-main-vae
+    - 416-Collide-51-6D-main-vae
+    - 411-Collide-41-T3-main-vae
+    - 49-Collide-31-8T-main-vae
+vae_moving:
+    - 69-Moving-71-G1-main-vae
+    - 69-Moving-61-9U-main-vae
+    - 416-Moving-51-UP-main-vae
+    - 410-Moving-41-ZC-main-vae
+    - 49-Moving-31-K9-main-vae
+vae_ladder:
+    - 69-Ladder-71-TM-main-vae
+    - 69-Ladder-61-S7-main-vae
+    - 416-Ladder-41-ZL-main-vae
+    - 412-Ladder-51-K6-main-vae
+    - 410-Ladder-31-3O-main-vae
+vae_basket:
+    - 69-Basket-71-BY-main-vae
+    - 69-Basket-61-VS-main-vae
+    - 416-Basket-41-4S-main-vae
+    - 412-Basket-51-DY-main-vae
+    - 410-Basket-31-H1-main-vae
+vae_funnel:
+    - 69-Funnel-71-2X-main-vae
+    - 69-Funnel-61-N0-main-vae
+    - 412-Funnel-51-CK-main-vae
+    - 411-Funnel-41-96-main-vae
+    - 49-Funnel-31-0H-main-vae

@@ -1,0 +1,24 @@
+mainft_bs:
+    - 419-BS-71-AD-main_ft
+    - 419-BS-61-PQ-main_ft
+    - 419-BS-51-O1-main_ft
+    - 419-BS-41-E3-main_ft
+    - 419-BS-31-U2-main_ft
+discft_bs:
+    - 420-BS-71-B9-fixed_ft
+    - 420-BS-61-7Z-fixed_ft
+    - 420-BS-51-UL-fixed_ft
+    - 420-BS-31-HU-fixed_ft
+    - 420-BS-41-59-fixed_ft
+mainscratch_bs:
+    - 419-BS-61-F3-fixed_ft
+    - 419-BS-71-1A-fixed_ft
+    - 419-BS-51-B5-fixed_ft
+    - 418-BS-41-XJ-fixed_ft
+    - 418-BS-31-HU-fixed_ft
+discscratch_bs:
+    - 420-BS-71-IY-discrete_scratch
+    - 420-BS-61-W1-discrete_scratch
+    - 420-BS-51-ST-discrete_scratch
+    - 419-BS-41-D2-discrete_scratch
+    - 419-BS-31-H2-discrete_scratch

@@ -1,0 +1,51 @@
+{
+    "name": "Belt",
+    "target": "[0.75, 0.75]",
+    "goal": "[0.5, -0.7]",
+    "reward": "sparse",
+    "target_ball_radius": 3.0,
+    "max_num_steps": 50,
+    "rnd": {
+            "target": "[uniform(-MID_NOISE, MID_NOISE), uniform(-MID_NOISE, MID_NOISE)]",
+            "goal": "[uniform(-MID_NOISE, MID_NOISE), uniform(-MID_NOISE, MID_NOISE)]"
+        },
+    "target_sec_goals": [
+        "[-0.6, -0.35]",
+        "[-0.15, 0.28]",
+        "[-0.1, -0.5]"
+    ],
+    "env": [
+        {
+            "name": "belt",
+            "pos": "[0.55, 0.25]",
+            "length": "7.0",
+            "vel": "-2.5"
+        },
+        {
+            "name": "belt",
+            "pos": "[0.05, 0.2]",
+            "length": "7.0",
+            "vel": "-2.5"
+        },
+        {
+            "name": "right_belt",
+            "pos": "[-0.3, -0.6]",
+            "length": "7.0",
+            "vel": "5.0"
+        },
+        {
+            "name": "floor",
+            "pos": "[0.41, -0.30]",
+            "length": 65,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "wall",
+            "pos": [-0.34, -0.17],
+            "length": 12.7,
+            "friction": 1.0,
+            "color": "STEELBLUE",
+            "thickness": 2.5
+        }
+    ]
+}

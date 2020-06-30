@@ -1,0 +1,56 @@
+task_name: 'infer'
+task_disp_name: 'Create Push'
+funnel:
+    - 213-Funnel-71-FX-m
+    - 213-Funnel-61-G7-m
+    - 213-Funnel-51-EJ-m
+    - 213-Funnel-41-YD-m
+    - 213-Funnel-31-2N-m
+basket:
+    - 210-Basket-71-5T-main
+    - 210-Basket-61-DP-main
+    - 210-Basket-51-BW-main
+    - 210-Basket-31-5B-main
+    - 210-Basket-41-C1-main
+ladder:
+    - 210-Ladder-71-TA-main
+    - 210-Ladder-61-LY-main
+    - 210-Ladder-51-GS-main
+    - 210-Ladder-41-1O-main
+    - 210-Ladder-31-2F-main
+moving:
+    - 210-Moving-71-J6-main
+    - 210-Moving-61-2S-main
+    - 28-Moving-51-35-m
+    - 28-Moving-41-4U-m
+    - 28-Moving-31-US-m
+collide:
+    - 28-Collide-61-LC-m
+    - 28-Collide-71-F7-m
+    - 28-Collide-51-NR-m
+    - 28-Collide-41-D0-m
+    - 28-Collide-31-Y1-m
+cannon:
+    - 28-Cannon-41-91-m
+    - 28-Cannon-71-BX-m
+    - 28-Cannon-61-FM-m
+    - 28-Cannon-51-6Z-m
+    - 28-Cannon-31-LA-m
+buckets:
+    - 28-Buckets-71-TO-m
+    - 28-Buckets-61-41-m
+    - 28-Buckets-51-E4-m
+    - 28-Buckets-41-7X-m
+    - 28-Buckets-31-Q0-m
+belt:
+    - 28-Belt-71-15-m
+    - 28-Belt-61-YT-m
+    - 27-Belt-51-EG-m
+    - 27-Belt-41-SV-m
+    - 27-Belt-31-SP-m
+navigate:
+    - 27-Navigate-71-H0-m
+    - 27-Navigate-61-JX-m
+    - 27-Navigate-51-8J-m
+    - 27-Navigate-41-VG-m
+    - 27-Navigate-31-E9-m

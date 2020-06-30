@@ -1,0 +1,40 @@
+task_name: 'StackEnvSimplestMoving-v0'
+task_disp_name: 'Shape Stacking'
+main:
+    - 24-BS-61-PQ-m
+    - 24-BS-51-G3-m
+    - 24-BS-41-Z0-m
+    - 24-BS-71-MS-m
+    - 23-BS-31-64-m-skip
+gt:
+    - 24-BS-71-M0-m-gt
+    - 24-BS-61-WG-m-gt
+    - 24-BS-51-OM-m-gt
+    - 24-BS-41-8P-m-gt
+    - 24-BS-31-UI-m-gt
+dist:
+    - 25-BS-31-8Z-dist
+    - 24-BS-71-XF-dist
+    - 24-BS-61-3V-dist
+    - 24-BS-51-KM-dist
+    - 24-BS-41-KZ-dist
+vae:
+    - 25-BS-41-MN-vae
+    - 25-BS-71-BK-vae
+    - 25-BS-61-29-vae
+    - 25-BS-51-0H-vae
+    - 25-BS-41-N5-vae
+    - 25-BS-31-V8-vae
+all:
+    - 26-BS-71-9S-m-all
+    - 25-BS-61-BO-m-all
+    - 25-BS-51-CV-m-all
+    - 25-BS-41-38-m-all
+    - 25-BS-31-2K-m-all
+no_ent:
+    - 26-BS-41-SW-m-e0
+    - 26-BS-71-6A-m-e0
+    - 26-BS-61-UB-m-e0
+    - 26-BS-51-CE-m-e0
+    - 26-BS-41-MC-m-e0
+    - 25-BS-31-GP-m-e0

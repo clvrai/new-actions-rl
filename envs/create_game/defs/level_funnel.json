@@ -1,0 +1,94 @@
+{
+    "name": "Funnel",
+    "target": "[0.0, 0.9]",
+    "goal": "[0.0, 0.0]",
+    "reward": "sparse",
+    "rnd": {
+            "target": "[uniform(-HIGH_NOISE, DEF_NOISE), uniform(-HIGH_NOISE, DEF_NOISE)]",
+            "goal": "random.choice([[-0.28, -0.8], [0.28, -0.8]])"
+        },
+    "env": [
+        {
+            "name": "floor",
+            "pos": [-0.56, -0.99],
+            "length": 35.5,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "floor",
+            "pos": [-0.88, -0.16],
+            "length": 10.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "floor",
+            "pos": [-0.257, -0.16],
+            "length": 10.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "wall",
+            "pos": "[-0.99, -0.7]",
+            "length": 45.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "wall",
+            "pos": "[-0.15, -0.7]",
+            "length": 45.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "funnel",
+            "pos": "[-0.6, -0.15]",
+            "angle": "-np.pi/4",
+            "size": 8.0
+        },
+        {
+            "name": "floor",
+            "pos": [0.56, -0.99],
+            "length": 35.5,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "floor",
+            "pos": [0.88, -0.16],
+            "length": 10.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "floor",
+            "pos": [0.257, -0.16],
+            "length": 10.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "wall",
+            "pos": "[0.99, -0.7]",
+            "length": 45.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "wall",
+            "pos": "[0.15, -0.7]",
+            "length": 45.0,
+            "thickness": 1.0,
+            "color": "STEELBLUE"
+        },
+        {
+            "name": "funnel",
+            "pos": "[0.6, -0.15]",
+            "angle": "np.pi/4",
+            "size": 8.0
+        }
+    ]
+}
