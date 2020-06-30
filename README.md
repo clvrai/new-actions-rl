@@ -1,4 +1,6 @@
-# Generalizing Reinforcement Learning to Unseen Actions
+# Generalization to New Actions in Reinforcement Learning
+[Ayush Jain](http://www-scf.usc.edu/~ayushj/)\*, [Andrew Szot](https://www.andrewszot.com)\*, [Joseph J. Lim](https://clvrai.com) at [USC CLVR lab](https://clvrai.com)  
+[[Paper website](https://sites.google.com/view/action-generalization)] 
 
 ## Directories
 The structure of the repository:  
